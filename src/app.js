@@ -1,1 +1,1 @@
-"// Main file for temperature-control-api backend" 
+// Main file for temperature-control-api backend
